@@ -1,0 +1,12 @@
+woita:
+  jms:
+    username: JMS Username
+    password: oranges
+    dburl: JMSUrl
+
+---
+spring:
+  profiles: de
+woita:
+  jms:
+    username: Gunter
