@@ -1,0 +1,33 @@
+# this is a comment in yml - (yet another markup)
+
+name: Rob
+
+names: # Inline comments work
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+#booleans
+truth: yes
+another_truth: True
+more_true: true
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+colon_string: "my courses: one two three"
+
+include_new_lines:
+  asdjkn asd
+  asdjs asd asd
+  asdjnasdkjn asd asdnasd
+
+ignore_new_lines: >
+  this is all
+  one line string due
+  to chevron.
